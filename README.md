@@ -4,7 +4,7 @@
  * play piano/guitar
  * meditate
  * exercise
- * learn a language
+ * learn a language: (babbel)[https://my.babbel.com/dashboard]
  * do a course
  * talk to friends/family
  * plan your day
